@@ -1,2 +1,1 @@
-# thrift_dns
-thrift实现dns查询
+read me! 2018/05/08
